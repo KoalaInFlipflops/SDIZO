@@ -1,0 +1,9 @@
+# Compiled Object files
+# Precompiled Headers
+# Compiled Dynamic libraries
+# Fortran module files
+# Compiled Static libraries
+# Executables
+.idea
+CMakeLists.txt
+cmake-build-debug/
